@@ -1,0 +1,4 @@
+interface:
+  display_name: "厦大 CNKI 高级检索"
+  short_description: "通过厦大图书馆代理检索并优先下载 CNKI PDF"
+  default_prompt: "使用 $cnki-xmu-advanced-search 通过厦门大学图书馆代理检索 CNKI，筛选高相关文献并报告检索策略。"
